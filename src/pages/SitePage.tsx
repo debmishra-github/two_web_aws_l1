@@ -82,7 +82,7 @@ function SiteCard(data: SiteInfo) {
         <>
             <div className="flex p-4 border-2 border-gray shadow-md rounded-md">
                 <div className="flex items-center justify-center h-56 w-48 mr-5">
-                    <img alt = {data.img} src={"/site_imgs/" + data.img} className="h-full w-full object-cover rounded-md" />
+                    {/* <img alt = {data.img} src={"/site_imgs/" + data.img} className="h-full w-full object-cover rounded-md" /> */}
                 </div>
                 <div className="flex flex-col justify-between grow">
                     <div>
