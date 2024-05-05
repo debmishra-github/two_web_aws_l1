@@ -2,6 +2,7 @@ export default function HomePage() {
     return (
         <>
             <div>
+                <h1> Tfea </h1>
                 <h1> Texas Water Observatory </h1>
                 <hr className="border-[3px] mb-3 border-red-800 rounded-md" />
             </div>
