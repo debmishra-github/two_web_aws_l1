@@ -43,7 +43,7 @@ interface SiteInfo {
     };
 }
 
-export function SitePage() {
+export default function SitePage() {
     const [siteData, setSiteData] = useState<SiteInfo[] | null>(null);
 
     useEffect(() => {
