@@ -25,13 +25,13 @@ export default function App() {
 
                 <Route path="/people" element={<People />} />
 
-                <Route path="/sites">
+                {/* <Route path="/sites"> */}
                     <Route path="/sites" element={<SitePage />} />
                     {/* <Route
                         path="/sites/:site_id"
                         element={<SiteDetailsInfo />}
                     /> */}
-                </Route>
+                {/* </Route> */}
                 <Route path = "/resources" element = {<ResourcePage />} />
 
             </Routes>
