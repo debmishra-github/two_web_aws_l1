@@ -1,0 +1,329 @@
+[
+    {   
+        "id" : "SFPR",
+        "name" : "Stiles Farm | Mixed Prairie",
+        "ownership" : "Stiles Farm Foundation",
+        "img" : "SFPR_1.jpg",
+
+        "siteDescription": "Mixed prairie/pasture surrounded by row cropping and grazing",
+        "physiography": {
+            "coordinates": [30.617643, -97.293829],
+            "elevation" : "157 m",
+            "ecoRegionIII": "Blackland Prairie",
+            "ecoRegionIV": "Northern Blackland Prairie"
+        },
+        
+        "vegetation": {
+            "type": "Grass and forb mix with some non-native species",
+            "predominantSpecies": "TBD",
+            "height": "<1 m",
+            "seasonality": "Mix of warm season C3 and C4 species with a few cool season grasses",
+            "management": "Current grazing, history of mixed used with periodic herbicide and fertilizer application"
+        },
+        
+        "climate": {
+            "koppenClassification": "Humid Subtropical (Cfa)",
+            "meanAnnualPrecipitation": "889 mm",
+            "annualMeanMaxTemperature": "25.6°C",
+            "annualMeanMinTemperature": "13.3°C",
+            "predominantWindDirection": "From the South"
+        },
+        
+        "hydrology": {
+            "riverBasin": "Little River",
+            "watershed": "Turkey Creek/Brushy Creek",
+            "HUC10": "1204020505",
+            "majorAquiferRegion": "Trinity Aquifer (subcrop)",
+            "minorAquiferRegion": "None"
+        },
+        
+        "soils": {
+            "taxonomy": "Vertisols - Udic Haplusterts",
+            "soilSeries": "Houston Black Clay, Heiden Clay, Altoga Silty Clay Loam",
+            "soilTexture": "Clay",
+            "geology": "Late Cretaceous; Gulfian Series"
+        }
+    }
+
+    ,
+
+    {
+        "id" : "RFPR",
+        "name" : "Riesel Farm | Prairie", 
+        "ownership": "USDA - ARS Watershed",
+        "img" : "RFPR_1.jpg",
+
+        "siteDescription": "Remnant native prairie in otherwise agriculturally intensive area",
+        
+        "physiography": {
+            "coordinates": [31.4802054, -96.8826936],
+            "elevation" : "162 m",
+            "ecoRegionIII": "Blackland Prairie",
+            "ecoRegionIV": "Northern Blackland Prairie"
+        },
+            
+        "vegetation": {
+            "type": "Native grasses and forbes",
+            "predominantSpecies": "TBD",
+            "height": "<1 m",
+            "seasonality": "Mix of warm season C3 and C4 species with a few cool season grasses",
+            "management": "None, remnant native prairie"
+        },
+            
+        "climate": {
+            "koppenClassification": "Humid Subtropical (Cfa)",
+            "meanAnnualPrecipitation": "914 mm",
+            "annualMeanMaxTemperature": "25.1°C",
+            "annualMeanMinTemperature": "12.8°C",
+            "predominantWindDirection": "From the South-Southeast"
+        },
+
+        "hydrology": {
+            "riverBasin": "Lower Brazos",
+            "watershed": "Brushy Creek / Big Creek",
+            "HUC10": "1207010102",
+            "majorAquiferRegion": "Trinity Aquifer (subcrop)",
+            "minorAquiferRegion": "None"
+        },
+            
+        "soils": {
+            "taxonomy": "Vertisols - Udic Haplusterts",
+            "soilSeries": "Houston Black Clay, Heiden Clay",
+            "soilTexture": "Clay, Silty Clay",
+            "geology": "Late Cretaceous; Gulfian Series"
+        }
+          
+    }
+      
+    ,
+
+    {   
+        "id" : "RFTA",
+        "name" :"Riesel Farm | Traditional Agriculture",
+        "ownership": "USDA - ARS Watershed",
+        "img" : "RFTA_1.jpg",
+
+        "siteDescription": "Crops grown under traditional agricultural practices",
+
+        "physiography": {
+            "coordinates": [31.4693445, -96.886456],
+            "elevation" : "173 m",
+            "ecoRegionIII": "Blackland Prairie",
+            "ecoRegionIV": "Northern Blackland Prairie"
+        },
+
+        "vegetation": {
+            "type": "Varies",
+            "predominantSpecies": "Varies",
+            "height": "<2 m",
+            "seasonality": "Crop growing season",
+            "management": "Reduced tillage; no cover crop; fertilizer applied at traditional rate"
+        },
+        
+        "climate": {
+            "koppenClassification": "Humid Subtropical (Cfa)",
+            "meanAnnualPrecipitation": "914 mm",
+            "annualMeanMaxTemperature": "25.1°C",
+            "annualMeanMinTemperature": "12.8°C",
+            "predominantWindDirection": "From the South-Southeast"
+        },
+        "hydrology": {
+            "riverBasin": "Lower Brazos",
+            "watershed": "Brushy Creek / Big Creek",
+            "HUC10": "1207010102",
+            "majorAquiferRegion": "Trinity Aquifer (subcrop)",
+            "minorAquiferRegion": "None"
+        },
+        
+        "soils": {
+            "taxonomy": "Vertisols - Udic Haplusterts",
+            "soilSeries": "Houston Black Clay, Heiden Clay",
+            "soilTexture": "Clay",
+            "geology": "Late Cretaceous; Gulfian Series"
+        }
+    }
+
+    , 
+
+    {
+        "id": "RFAA",
+        "name" :"Riesel Farm | Aspirational Agriculture",
+        "ownership": "USDA - ARS Watershed",
+        "siteDescription": "Crops grown under best management practices",
+        "img" : "RFAA_1.jpg",
+
+        "physiography": {
+            "coordinates": [31.4777016, -96.8882536],
+            "elevation": "167 m",
+            "ecoRegionIII": "Blackland Prairie",
+            "ecoRegionIV": "Northern Blackland Prairie"
+        },
+
+        "vegetation": {
+            "type": "Varies",
+            "predominantSpecies": "Varies",
+            "height": "<2 m",
+            "seasonality": "Year-round",
+            "management": "Reduced tillage/no till; multi-species cover crop between cash crops; fertilizer applied based on Haney Soil Test"
+        },
+
+        "climate": {
+            "koppenClassification": "Humid Subtropical (Cfa)",
+            "meanAnnualPrecipitation": "914 mm",
+            "annualMeanMaxTemperature": "25.1°C",
+            "annualMeanMinTemperature": "12.8°C",
+            "predominantWindDirection": "From the South-Southeast"
+        },
+
+        "hydrology": {
+            "riverBasin": "Lower Brazos",
+            "watershed": "Brushy Creek / Big Creek",
+            "HUC10": "1207010102",
+            "majorAquiferRegion": "Trinity Aquifer (subcrop)",
+            "minorAquiferRegion": "None"
+        },
+
+        "soils": {
+            "taxonomy": "Vertisols - Udic Haplusterts",
+            "soilSeries": "Houston Black Clay",
+            "soilTexture": "Clay",
+            "geology": "Late Cretaceous; Gulfian Series"
+        }
+
+    }
+
+    ,
+
+    {
+        "id": "SUSM",
+        "name" : "Sargent Unit - Salt Marsh",
+        "ownership": "U.S. Fish and Wildlife Service",
+        "img" : "SUSM_1.jpg",
+
+        "siteDescription": "Tidally influenced salt marsh",
+
+        "physiography": {
+            "coordinates": [28.780508, -95.614367],
+            "elevation" : "0 m",
+            "ecoRegionIII": "Western Gulf Coastal Plain",
+            "ecoRegionIV": "Mid-Coast Barrier Islands and Coastal Marshes"
+        },
+        "vegetation": {
+            "type": "Salt tolerant grasses and succulents",
+            "predominantSpecies": "TBD",
+            "height": "--",
+            "seasonality": "--",
+            "management": "--"
+        },
+        "climate": {
+            "koppenClassification": "Humid Subtropical (Cfa)",
+            "meanAnnualPrecipitation": "1245 mm",
+            "annualMeanMaxTemperature": "25.6°C",
+            "annualMeanMinTemperature": "16.7°C",
+            "predominantWindDirection": "From the South-Southeast"
+        },
+        "hydrology": {
+            "riverBasin": "San Bernard Coastal Basin",
+            "watershed": "Water Hole Creek/Caney Creek",
+            "HUC10": "1209040204",
+            "majorAquiferRegion": "Texas Gulf Coast Aquifer",
+            "minorAquiferRegion": "None"
+        },
+        "soils": {
+            "taxonomy": "Mollisols - Endoaquolls",
+            "soilSeries": "Surfside Clay",
+            "soilTexture": "Clay",
+            "geology": "Holocene"
+        }
+    }
+
+    ,
+
+    {
+        "id" : "DAFO",
+        "name" : "Danciger - Mixed Bottomland Hardwood Forest",
+        "ownership": "U.S. Fish and Wildlife Service",
+        "img": "DAFO_1.jpg",
+        "siteDescription": "Mixed bottomland hardwood forest",
+        "physiography": {
+            "coordinates": [29.165867, -95.829033],
+            "elevation" : "16 m",
+            "ecoRegionIII": "Western Gulf Coastal Plain",
+            "ecoRegionIV": "Floodplains and Low Terraces"
+        },
+        "vegetation": {
+            "type": "Mixed hardwood trees",
+            "predominantSpecies": "Water Oak",
+            "height": "<25 m",
+            "seasonality": "Winter deciduous",
+            "management": "None"
+        },
+        "climate": {
+            "koppenClassification": "Humid Subtropical (Cfa)",
+            "meanAnnualPrecipitation": "1143 mm",
+            "annualMeanMaxTemperature": "26.0°C",
+            "annualMeanMinTemperature": "15.0°C",
+            "predominantWindDirection": "From the South-Southeast"
+        },
+        "hydrology": {
+            "riverBasin": "San Bernard Coastal Basin",
+            "watershed": "Linnville Bayou",
+            "HUC10": "1209040202",
+            "majorAquiferRegion": "Texas Gulf Coast Aquifer",
+            "minorAquiferRegion": "None"
+        },
+        "soils": {
+            "taxonomy": "Vertisols and Alfisolds",
+            "soilSeries": "Aris fine sandy loam, Bacliff clay, Edna loam, Leton loam, Pledger Clay, Churnabog clay",
+            "soilTexture": "Clays, loams, sandy loams",
+            "geology": "Holocene"
+        }
+    }
+        
+    ,
+
+    {
+        "id" : "TFPR",
+        "name" : "Texas A&M Experimental Farm - Improved Pasture",
+        "ownership" : "Texas A&M AgriLife",
+        "img" : "TFPR_1.jpg",
+        "siteDescription": "Improved pasture within experimental research farm",
+        
+        "physiography": {
+            "coordinates": [30.532778, -96.425220],
+            "elevation": "68 m",
+            "ecoRegionIII": "East Central Texas Plains",
+            "ecoRegionIV": "Floodplains and Low Terraces"
+        },
+        "vegetation": {
+            "type": "Mixed grasses",
+            "predominantSpecies": "TBD",
+            "height": "<1 m",
+            "seasonality": "--",
+            "management": "--"
+        },
+        "climate": {
+            "koppenClassification": "Humid Subtropical (Cfa)",
+            "meanAnnualPrecipitation": "991 mm",
+            "annualMeanMaxTemperature": "26.0°C",
+            "annualMeanMinTemperature": "13.9°C",
+            "predominantWindDirection": "From the South-Southeast"
+        },
+        "hydrology": {
+            "riverBasin": "Lower Brazos River",
+            "watershed": "Old River/Brazos River",
+            "HUC10": "1207010107",
+            "majorAquiferRegion": "Carrizo-Wilcox (subcrop)",
+            "minorAquiferRegion": "Brazos River Alluvium Aquifer"
+        },
+        "soils": {
+            "taxonomy": "Inceptisols and Vertisols - Udifluventic Haplustepts, Entic Hapluderts, Udic Ustifluvents",
+            "soilSeries": "Weswood silty clay loam, Weswood silt loam, Yahola very fine sandy loam, Belk Clay, Rotex Clay",
+            "soilTexture": "Clays, loams, sandy loams",
+            "geology": "Holocene"
+        }
+
+    }
+        
+
+]

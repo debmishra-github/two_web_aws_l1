@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Trirong:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h1 {
+      @apply text-3xl py-4 font-bold;
+    }
+    h2 {
+        @apply text-xl font-bold;
+    }
+
+    p {
+        @apply text-[17px]
+    }
+  }
+
+@layer components {
+    .nav-link-active {
+        @apply m-5 text-red-800 relative; /* Added 'relative' positioning */
+    }
+    
+    .nav-link-active::before {
+        /* Show bar when link is active */
+        @apply content-[''] absolute bottom-0 left-0 w-1/2 h-1 bg-red-800; /* Adjusted positioning */
+    }
+    
+    /* Styles for regular links */
+    .nav-link {
+        @apply m-5 text-black transition duration-200 ease-in-out hover:text-red-800 relative; /* Added 'relative' positioning */
+    }
+    
+    .nav-link::before {
+        /* Hide bar by default */
+        @apply content-[''] absolute bottom-0 left-0 w-1/2 h-1 bg-red-800 transform scale-x-0 transition duration-200 ease-in-out hover:scale-x-100; /* Adjusted positioning */
+    }
+    
+}
+
+
+
+
+#container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 60px;
+    margin-right: 60px;
+    /* font-family: Georgia, 'Times New Roman', Times, serif, sans-serif; */
+    /* font-family: 'Lato', Verdana, sans-serif; */
+    font-family: "Trirong", serif;
+}
+
+
+.home-info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.home-info-container {
+    width:50%;
+}
+
+.home-pic img {
+    height:550px;
+}

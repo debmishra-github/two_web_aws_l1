@@ -1,0 +1,91 @@
+[
+    
+    {
+        "name" : "Binayak Mohanty", 
+        "classification" : "Director",
+        "role" : "",
+        "link" : "https://vadosezone.tamu.edu/binayak-p-mohanty/"
+    }
+
+    ,
+
+    {
+        "name" : "Salvatore Calabrese", 
+        "classification" : "Faculty Member",
+        "role" : "",
+        "link" : "https://people.tamu.edu/~salvatore.calabrese/"
+    }
+
+    , 
+
+    {
+        "name" : "Mark Everett",
+        "classification":"Faculty Member",
+        "role" : "",
+        "link" : "https://geoweb.tamu.edu/people/profiles/faculty/everettmark.html"
+    }
+
+    ,
+
+    {
+        "name": "Peter Knappett",
+        "classification":"Faculty Member",
+        "role": "",
+        "link": "https://geoweb.tamu.edu/people/profiles/faculty/knappettpeter.html"
+    }
+
+    , 
+
+    {
+        "name" : "Nithya Rajan", 
+        "classification" : "Faculty Member",
+        "role" : "",
+        "link" : "https://soilcrop.tamu.edu/people/rajan-nithya/"
+    }
+
+    , 
+
+    {
+        "name" : "Beomseok Chun", 
+        "classification" : "Researcher",
+        "role" : "",
+        "link" : "https://vadosezone.tamu.edu/our_people/%ec%b2%9c%eb%b2%94%ec%84%9d-beomseok-chun/"
+    }
+    
+    ,
+
+    {
+        "name" : "Rishabh Singh", 
+        "classification" : "Researcher",
+        "role" : "",
+        "link" : ""
+    }
+    
+    ,
+
+    {
+        "name" : "Debasish Mishra", 
+        "classification" : "Researcher",
+        "role" : "",
+        "link" : "https://vadosezone.tamu.edu/debasish-mishra/"
+    }
+
+    ,
+
+    {
+        "name" : "Karan Bhalla",
+        "classification" : "Undergraduate",
+        "role" : "Web development",
+        "link" : ""
+    }
+
+    ,
+
+    {
+        "name" : "Rishabh Prasad",
+        "classification" : "Undergraduate",
+        "role" : "Data automation",
+        "link" : "" 
+    }
+    
+]

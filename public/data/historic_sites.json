@@ -1,0 +1,86 @@
+[
+    {
+        "id" : "lcg",
+        "name" : "La Copita - Grassland",
+        "ownership": "Texas A&M Department of Ecosystem Science and Management",
+        "siteDescription": "La Copita Demonstration Ranch is a 2726 acre tract of rangeland located in western Jim Wells County, about 40 miles west of Corpus Christi, Texas and approximately 15 miles south and west of Alice. The ranch is located in a transition zone between the northeastern portion of the central Rio Grande Plain and the Gulf Prairie and Marshes. The climate is subtropical with hot summers and mild winters. Extended cold periods are rare. The growing season is approximately 300 days in length. Annual precipitation averages 716 mm, of which 70% falls in April through September. Three out of five years receive less than average rainfall so precipitation is erratic and droughts are often severe.",
+        
+        "physiography": {
+            "coordinates": [27.666613, -98.208922],
+            "elevation": "82 m",
+            "ecoregionIII": "Western Gulf Coastal Plain",
+            "ecoregionIV": "Southern Subhumid Gulf Coastal Prairies"
+        },
+        "vegetation": {
+            "type": "Mixed grasses",
+            "predominantSpecies": "TBD",
+            "height": "--",
+            "seasonality": "--",
+            "management": "--"
+        },
+        "climate": {
+            "koppenClassification": "Humid Subtropical (Cfa)",
+            "meanAnnualPrecipitation": "716 mm",
+            "annualMeanMaxTemperature": "28.3°C",
+            "annualMeanMinTemperature": "16.1°C",
+            "predominantWindDirection": "From the South-Southeast"
+        },
+        "hydrology": {
+            "riverBasin": "Southwestern Texas Coastal Basin",
+            "watershed": "Lower Santa Gertrudis Creek",
+            "HUC10": "1211020402",
+            "majorAquiferRegion": "Texas Gulf Coast Aquifer",
+            "minorAquiferRegion": "None"
+        },
+        "soils": {
+            "taxonomy": "Alfisols, Mollisols and Vertisols",
+            "soilSeries": ["Clareville Loam", "Parrita sandy clay loam", "Pernitas fine sandy clay loam", "Pharr sandy clay loam", "Runge fine sandy loam", "Runge sandy clay loam"],
+            "soilTexture": ["Clays", "fine sandy loams", "sandy clay loams"],
+            "geology": "Quaternary; Middle Pleistocene"
+        } 
+    }
+
+    ,
+
+    {
+        "id": "lcs",
+        "name" : "La Copita - Shrubland",
+        "ownership" : "Texas A&M Department of Ecosystem Science and Management",
+        "siteDescription": "La Copita Demonstration Ranch is a 2726 acre tract of rangeland located in western Jim Wells County, about 40 miles west of Corpus Christi, Texas and approximately 15 miles south and west of Alice. The ranch is located in a transition zone between the northeastern portion of the central Rio Grande Plain and the Gulf Prairie and Marshes. The climate is subtropical with hot summers and mild winters. Extended cold periods are rare. The growing season is approximately 300 days in length. Annual precipitation averages 716 mm, of which 70% falls in April through September. Three out of five years receive less than average rainfall so precipitation is erratic and droughts are often severe.",
+        
+        "physiography": {
+            "coordinates": [27.665033, -98.200704],
+            "elevation" : "216 m",
+            "ecoregionIII": "Southern Texas Plains",
+            "ecoregionIV": "Texas-Tamaulipan Thornscrub"
+        },
+        "vegetation": {
+            "type": "Mixed Shrub",
+            "predominantSpecies": "TBD",
+            "height": "--",
+            "seasonality": "--",
+            "management": "--"
+        },
+        "climate": {
+            "koppenClassification": "Humid Subtropical (Cfa)",
+            "meanAnnualPrecipitation": "716 mm",
+            "annualMeanMaxTemperature": "28.3°C",
+            "annualMeanMinTemperature": "16.1°C",
+            "predominantWindDirection": "From the South-Southeast"
+        },
+        "hydrology": {
+            "riverBasin": "Southwestern Texas Coastal Basin",
+            "watershed": "Lower Santa Gertrudis Creek",
+            "HUC10": "1211020402",
+            "majorAquiferRegion": "Texas Gulf Coast Aquifer",
+            "minorAquiferRegion": "None"
+        },
+        "soils": {
+            "taxonomy": "Alfisols, Mollisols and Vertisols",
+            "soilSeries": ["Clareville Loam", "Parrita sandy clay loam", "Pernitas fine sandy clay loam", "Pharr sandy clay loam", "Runge fine sandy loam", "Runge sandy clay loam"],
+            "soilTexture": ["Clays", "fine sandy loams", "sandy clay loams"],
+            "geology": "Quaternary; Middle Pleistocene"
+        }
+    }
+
+]
