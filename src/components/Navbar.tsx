@@ -9,7 +9,7 @@ export default function Navbar() {
 
                 <div>
                     <a className="logo">
-                        <img src="/src/assets/TWO.png" alt="Logo" />
+                        <img src="/TWO.png" alt="Logo" />
                     </a>
                 </div>
 

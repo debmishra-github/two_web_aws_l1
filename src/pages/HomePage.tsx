@@ -2,7 +2,6 @@ export default function HomePage() {
     return (
         <>
             <div>
-                <h1> Tfea </h1>
                 <h1> Texas Water Observatory </h1>
                 <hr className="border-[3px] mb-3 border-red-800 rounded-md" />
             </div>
@@ -102,7 +101,7 @@ export default function HomePage() {
                     </div>
                 </div>
                 <div className="home-pic" >
-                    <img className = "p-2" src="src/assets/TWOsitemap.jpg" />
+                    <img className = "p-2" src="/TWOsitemap.jpg" />
                 </div>
             </div>
         </>
