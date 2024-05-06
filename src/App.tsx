@@ -3,7 +3,7 @@ import "./App.css";
 import { Route, Routes } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
-import DataPage from "./pages/DataPage";
+// import DataPage from "./pages/DataPage";
 import HomePage from "./pages/HomePage";
 import MetaPage from "./pages/MetaPage";
 import {People} from "./pages/People";
@@ -19,7 +19,7 @@ export default function App() {
             <Routes>
                 <Route path="/" element={<HomePage />} />
 
-                <Route path="/data" element={<DataPage />} />
+                {/* <Route path="/data" element={<DataPage />} /> */}
 
                 <Route path="/metadata" element={<MetaPage />} />
 
