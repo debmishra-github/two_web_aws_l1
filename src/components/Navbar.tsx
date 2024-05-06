@@ -29,12 +29,12 @@ export default function Navbar() {
                         Sites
                     </NavLink>
 
-                    <NavLink
+                    {/* <NavLink
                         className={ path.split("/")[1] === "data" ? "nav-link-active" : "nav-link"}
                         to="/data"
                     >
                         Data
-                    </NavLink>
+                    </NavLink> */}
 
                     <NavLink
                         className={path.split("/")[1] === "metadata" ? "nav-link-active" : "nav-link"}
